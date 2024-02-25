@@ -1,0 +1,26 @@
+body {
+    width: 345px;
+    margin: 0;
+}
+.widget {
+   padding: 100px 88px; 
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.color {
+    display: flex;
+    justify-content: center;
+}
+.change-color {
+    background-color: #4E75FF;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    width: 148px;
+    height: 40px;
+   letter-spacing: 0.04em;
+}
+.change-color:hover {
+    background-color: #6C8CFF;
+}

@@ -1,0 +1,25 @@
+#name-output {
+  color: #2E2F42;
+  margin-top: 16px;  
+font-family: "Montserrat";
+}
+
+#name-input {
+width: 360px;
+height: 40px;
+color: #2E2F42;
+border: 1px solid #808080;
+padding-left: 16px;
+font-family: "Montserrat";
+border-radius: 4px;
+font-size: 16px;
+line-height: 1.5;
+}
+h1 {
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+body {
+    margin-left: 24px;
+    margin-right: 24px;
+}
